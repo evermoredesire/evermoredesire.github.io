@@ -1,0 +1,2622 @@
+{
+ "version": 2,
+ "updated": "2026-11-10",
+ "base": "https://evermoredesire.github.io/woow-walls/",
+ "categories": [
+  {
+   "id": "nature",
+   "name": "Nature",
+   "cover": "nature-6"
+  },
+  {
+   "id": "cars",
+   "name": "Cars",
+   "cover": "cars-2"
+  },
+  {
+   "id": "abstract",
+   "name": "Abstract & AMOLED",
+   "cover": "abstract-6"
+  },
+  {
+   "id": "space",
+   "name": "Space",
+   "cover": "space-10"
+  },
+  {
+   "id": "flowers",
+   "name": "Flowers & Garden",
+   "cover": "flowers-9"
+  },
+  {
+   "id": "city",
+   "name": "City & Architecture",
+   "cover": "city-1"
+  },
+  {
+   "id": "animals",
+   "name": "Animals & Birds",
+   "cover": "animals-1"
+  },
+  {
+   "id": "ocean",
+   "name": "Ocean & Beaches",
+   "cover": "ocean-1"
+  },
+  {
+   "id": "minimal",
+   "name": "Minimal",
+   "cover": "minimal-4"
+  },
+  {
+   "id": "anime",
+   "name": "Anime & Art",
+   "cover": "anime-7"
+  }
+ ],
+ "collections": [
+  {
+   "id": "amoled",
+   "name": "AMOLED Blacks",
+   "desc": "Pure-black walls that sip battery and glow on OLED screens.",
+   "tag": "BATTERY SAVER",
+   "cover": "abstract-1",
+   "items": [
+    "abstract-1",
+    "abstract-2",
+    "abstract-4",
+    "abstract-5",
+    "abstract-6",
+    "abstract-8",
+    "abstract-11",
+    "space-5",
+    "space-12",
+    "flowers-8",
+    "ocean-5",
+    "minimal-5"
+   ]
+  },
+  {
+   "id": "golden",
+   "name": "Golden Hour",
+   "desc": "Warm light, long shadows — sunsets for your screen.",
+   "tag": "",
+   "cover": "flowers-3",
+   "items": [
+    "nature-3",
+    "cars-2",
+    "cars-4",
+    "cars-7",
+    "abstract-11",
+    "flowers-3",
+    "flowers-5",
+    "flowers-9",
+    "city-10",
+    "animals-10",
+    "ocean-6",
+    "ocean-8"
+   ]
+  },
+  {
+   "id": "deepspace",
+   "name": "Deep Space",
+   "desc": "Nebulae, orbits and the quiet dark between stars.",
+   "tag": "",
+   "cover": "space-1",
+   "items": [
+    "space-1",
+    "space-2",
+    "space-3",
+    "space-4",
+    "space-5",
+    "space-6",
+    "space-7",
+    "space-8",
+    "space-9",
+    "space-10",
+    "space-12",
+    "anime-5"
+   ]
+  },
+  {
+   "id": "nightdrive",
+   "name": "Night Drive",
+   "desc": "Neon streets and tail-lights after midnight.",
+   "tag": "",
+   "cover": "cars-3",
+   "items": [
+    "cars-1",
+    "cars-3",
+    "cars-5",
+    "cars-6",
+    "cars-9",
+    "cars-11",
+    "cars-12",
+    "city-5",
+    "city-6",
+    "city-12",
+    "anime-2",
+    "anime-9"
+   ]
+  },
+  {
+   "id": "inbloom",
+   "name": "In Bloom",
+   "desc": "Petals, dew and fields of colour.",
+   "tag": "",
+   "cover": "flowers-4",
+   "items": [
+    "flowers-1",
+    "flowers-2",
+    "flowers-3",
+    "flowers-4",
+    "flowers-5",
+    "flowers-6",
+    "flowers-8",
+    "flowers-9",
+    "flowers-10",
+    "animals-11",
+    "anime-3",
+    "anime-11"
+   ]
+  },
+  {
+   "id": "peaks",
+   "name": "Peaks & Water",
+   "desc": "Mountains, falls and open water.",
+   "tag": "",
+   "cover": "nature-1",
+   "items": [
+    "nature-1",
+    "nature-2",
+    "nature-4",
+    "nature-5",
+    "nature-6",
+    "nature-9",
+    "nature-10",
+    "nature-12",
+    "city-4",
+    "ocean-11"
+   ]
+  }
+ ],
+ "trending": [
+  "cars-3",
+  "abstract-1",
+  "space-1",
+  "animals-1",
+  "ocean-2",
+  "anime-7",
+  "abstract-6",
+  "space-12",
+  "city-5",
+  "nature-1"
+ ],
+ "wallpapers": [
+  {
+   "id": "nature-1",
+   "title": "Mountain Lake Dawn",
+   "cat": "nature",
+   "tags": [
+    "mountains",
+    "lake",
+    "dawn",
+    "calm",
+    "landscape"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-1.webp",
+   "thumb": "thumbs/nature-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "nature-2",
+   "title": "Jungle Waterfall",
+   "cat": "nature",
+   "tags": [
+    "waterfall",
+    "jungle",
+    "green",
+    "lush",
+    "nature"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-2.webp",
+   "thumb": "thumbs/nature-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "nature-3",
+   "title": "Desert Dunes",
+   "cat": "nature",
+   "tags": [
+    "desert",
+    "dunes",
+    "sand",
+    "golden",
+    "nature"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/nature-3.webp",
+   "thumb": "thumbs/nature-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "nature-4",
+   "title": "Snowy Forest",
+   "cat": "nature",
+   "tags": [
+    "snow",
+    "forest",
+    "winter",
+    "trees",
+    "nature"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-4.webp",
+   "thumb": "thumbs/nature-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "nature-5",
+   "title": "Ocean Wave",
+   "cat": "nature",
+   "tags": [
+    "ocean",
+    "wave",
+    "sea",
+    "water",
+    "nature"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-5.webp",
+   "thumb": "thumbs/nature-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "nature-6",
+   "title": "Alpine Sunrise",
+   "cat": "nature",
+   "tags": [
+    "mountains",
+    "sunrise",
+    "peaks",
+    "clouds",
+    "golden"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-6.webp",
+   "thumb": "thumbs/nature-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-7",
+   "title": "Emerald Valley",
+   "cat": "nature",
+   "tags": [
+    "valley",
+    "river",
+    "green",
+    "aerial",
+    "lush"
+   ],
+   "collections": [],
+   "img": "img/nature-7.webp",
+   "thumb": "thumbs/nature-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-8",
+   "title": "Autumn Forest Path",
+   "cat": "nature",
+   "tags": [
+    "autumn",
+    "forest",
+    "path",
+    "sunlight",
+    "leaves"
+   ],
+   "collections": [],
+   "img": "img/nature-8.webp",
+   "thumb": "thumbs/nature-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-9",
+   "title": "Volcanic Island",
+   "cat": "nature",
+   "tags": [
+    "island",
+    "volcano",
+    "coast",
+    "aerial",
+    "ocean"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-9.webp",
+   "thumb": "thumbs/nature-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-10",
+   "title": "Frozen Lake Aurora",
+   "cat": "nature",
+   "tags": [
+    "aurora",
+    "frozen",
+    "lake",
+    "night",
+    "mountains"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-10.webp",
+   "thumb": "thumbs/nature-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-11",
+   "title": "Canyon Light",
+   "cat": "nature",
+   "tags": [
+    "canyon",
+    "light beam",
+    "desert",
+    "rock"
+   ],
+   "collections": [],
+   "img": "img/nature-11.webp",
+   "thumb": "thumbs/nature-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "nature-12",
+   "title": "Misty Pine Ridge",
+   "cat": "nature",
+   "tags": [
+    "mist",
+    "pines",
+    "ridges",
+    "dawn",
+    "calm"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/nature-12.webp",
+   "thumb": "thumbs/nature-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/nature-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/nature-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-1",
+   "title": "Midnight Neon",
+   "cat": "cars",
+   "tags": [
+    "cars",
+    "night",
+    "neon",
+    "drive",
+    "street"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-1.webp",
+   "thumb": "thumbs/cars-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "cars-2",
+   "title": "Golden Muscle",
+   "cat": "cars",
+   "tags": [
+    "cars",
+    "muscle",
+    "golden",
+    "sunset",
+    "classic"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/cars-2.webp",
+   "thumb": "thumbs/cars-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "cars-3",
+   "title": "Night Supercar",
+   "cat": "cars",
+   "tags": [
+    "cars",
+    "supercar",
+    "night",
+    "lights",
+    "fast"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-3.webp",
+   "thumb": "thumbs/cars-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "cars-4",
+   "title": "Vintage Desert Road",
+   "cat": "cars",
+   "tags": [
+    "cars",
+    "vintage",
+    "desert",
+    "road",
+    "classic"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/cars-4.webp",
+   "thumb": "thumbs/cars-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "cars-5",
+   "title": "Future EV",
+   "cat": "cars",
+   "tags": [
+    "cars",
+    "electric",
+    "future",
+    "studio",
+    "sleek"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-5.webp",
+   "thumb": "thumbs/cars-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "cars-6",
+   "title": "Wet Asphalt Racer",
+   "cat": "cars",
+   "tags": [
+    "night",
+    "neon",
+    "rain",
+    "street",
+    "rear"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-6.webp",
+   "thumb": "thumbs/cars-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-7",
+   "title": "Coastal Convertible",
+   "cat": "cars",
+   "tags": [
+    "convertible",
+    "coast",
+    "sunset",
+    "road trip",
+    "vintage"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/cars-7.webp",
+   "thumb": "thumbs/cars-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-8",
+   "title": "Rally Dust",
+   "cat": "cars",
+   "tags": [
+    "rally",
+    "dust",
+    "gravel",
+    "action",
+    "dirt"
+   ],
+   "collections": [],
+   "img": "img/cars-8.webp",
+   "thumb": "thumbs/cars-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-9",
+   "title": "Midnight Garage",
+   "cat": "cars",
+   "tags": [
+    "garage",
+    "dark",
+    "spotlight",
+    "moody",
+    "night"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-9.webp",
+   "thumb": "thumbs/cars-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-10",
+   "title": "Snow Drifter",
+   "cat": "cars",
+   "tags": [
+    "snow",
+    "drift",
+    "winter",
+    "dusk",
+    "action"
+   ],
+   "collections": [],
+   "img": "img/cars-10.webp",
+   "thumb": "thumbs/cars-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-11",
+   "title": "Desert Highway",
+   "cat": "cars",
+   "tags": [
+    "desert",
+    "highway",
+    "night",
+    "stars",
+    "road"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-11.webp",
+   "thumb": "thumbs/cars-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "cars-12",
+   "title": "Neon Drift",
+   "cat": "cars",
+   "tags": [
+    "drift",
+    "neon",
+    "smoke",
+    "night",
+    "slide"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/cars-12.webp",
+   "thumb": "thumbs/cars-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/cars-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/cars-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-1",
+   "title": "Neon Swirl",
+   "cat": "abstract",
+   "tags": [
+    "amoled",
+    "dark",
+    "neon",
+    "swirl",
+    "abstract"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-1.webp",
+   "thumb": "thumbs/abstract-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "abstract-2",
+   "title": "Golden Geometry",
+   "cat": "abstract",
+   "tags": [
+    "geometry",
+    "gold",
+    "lines",
+    "dark",
+    "abstract"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-2.webp",
+   "thumb": "thumbs/abstract-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "abstract-3",
+   "title": "Purple Glow",
+   "cat": "abstract",
+   "tags": [
+    "purple",
+    "glow",
+    "gradient",
+    "mesh",
+    "abstract"
+   ],
+   "collections": [],
+   "img": "img/abstract-3.webp",
+   "thumb": "thumbs/abstract-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "abstract-4",
+   "title": "Dark Waves",
+   "cat": "abstract",
+   "tags": [
+    "dark",
+    "waves",
+    "black",
+    "minimal",
+    "abstract"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-4.webp",
+   "thumb": "thumbs/abstract-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "abstract-5",
+   "title": "Colour Smoke",
+   "cat": "abstract",
+   "tags": [
+    "smoke",
+    "colour",
+    "dark",
+    "abstract",
+    "swirl"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-5.webp",
+   "thumb": "thumbs/abstract-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "abstract-6",
+   "title": "Liquid Chrome",
+   "cat": "abstract",
+   "tags": [
+    "chrome",
+    "liquid",
+    "metal",
+    "black",
+    "amoled"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-6.webp",
+   "thumb": "thumbs/abstract-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-7",
+   "title": "Prism Shatter",
+   "cat": "abstract",
+   "tags": [
+    "prism",
+    "rainbow",
+    "glass",
+    "dark",
+    "light"
+   ],
+   "collections": [],
+   "img": "img/abstract-7.webp",
+   "thumb": "thumbs/abstract-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-8",
+   "title": "Topography Lines",
+   "cat": "abstract",
+   "tags": [
+    "lines",
+    "contour",
+    "glow",
+    "black",
+    "amoled"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/abstract-8.webp",
+   "thumb": "thumbs/abstract-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-9",
+   "title": "Ink Bloom",
+   "cat": "abstract",
+   "tags": [
+    "ink",
+    "swirl",
+    "colour",
+    "dark",
+    "water"
+   ],
+   "collections": [],
+   "img": "img/abstract-9.webp",
+   "thumb": "thumbs/abstract-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-10",
+   "title": "Fractal Ice",
+   "cat": "abstract",
+   "tags": [
+    "ice",
+    "fractal",
+    "blue",
+    "macro",
+    "crystal"
+   ],
+   "collections": [],
+   "img": "img/abstract-10.webp",
+   "thumb": "thumbs/abstract-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-11",
+   "title": "Golden Particles",
+   "cat": "abstract",
+   "tags": [
+    "gold",
+    "particles",
+    "bokeh",
+    "black",
+    "sparkle"
+   ],
+   "collections": [
+    "amoled",
+    "golden"
+   ],
+   "img": "img/abstract-11.webp",
+   "thumb": "thumbs/abstract-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "abstract-12",
+   "title": "Aurora Gradient",
+   "cat": "abstract",
+   "tags": [
+    "gradient",
+    "aurora",
+    "waves",
+    "dark",
+    "smooth"
+   ],
+   "collections": [],
+   "img": "img/abstract-12.webp",
+   "thumb": "thumbs/abstract-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/abstract-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/abstract-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-1",
+   "title": "Nebula",
+   "cat": "space",
+   "tags": [
+    "space",
+    "nebula",
+    "stars",
+    "galaxy",
+    "cosmos"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-1.webp",
+   "thumb": "thumbs/space-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "space-2",
+   "title": "Earth Sunrise",
+   "cat": "space",
+   "tags": [
+    "space",
+    "earth",
+    "orbit",
+    "sunrise",
+    "planet"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-2.webp",
+   "thumb": "thumbs/space-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "space-3",
+   "title": "The Astronaut",
+   "cat": "space",
+   "tags": [
+    "space",
+    "astronaut",
+    "stars",
+    "explorer",
+    "planet"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-3.webp",
+   "thumb": "thumbs/space-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "space-4",
+   "title": "Milky Way Peaks",
+   "cat": "space",
+   "tags": [
+    "space",
+    "milky way",
+    "mountains",
+    "night",
+    "stars"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-4.webp",
+   "thumb": "thumbs/space-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "space-5",
+   "title": "Eclipse",
+   "cat": "space",
+   "tags": [
+    "space",
+    "eclipse",
+    "sun",
+    "dark",
+    "minimal"
+   ],
+   "collections": [
+    "amoled",
+    "deepspace"
+   ],
+   "img": "img/space-5.webp",
+   "thumb": "thumbs/space-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "space-6",
+   "title": "Ringed Giant",
+   "cat": "space",
+   "tags": [
+    "planet",
+    "rings",
+    "alien",
+    "horizon",
+    "space"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-6.webp",
+   "thumb": "thumbs/space-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-7",
+   "title": "Starship Window",
+   "cat": "space",
+   "tags": [
+    "nebula",
+    "spaceship",
+    "window",
+    "stars",
+    "space"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-7.webp",
+   "thumb": "thumbs/space-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-8",
+   "title": "Lunar Surface",
+   "cat": "space",
+   "tags": [
+    "moon",
+    "lunar",
+    "earth",
+    "craters",
+    "space"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-8.webp",
+   "thumb": "thumbs/space-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-9",
+   "title": "Comet Trail",
+   "cat": "space",
+   "tags": [
+    "comet",
+    "ocean",
+    "night",
+    "stars",
+    "space"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-9.webp",
+   "thumb": "thumbs/space-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-10",
+   "title": "Galaxy Core",
+   "cat": "space",
+   "tags": [
+    "galaxy",
+    "spiral",
+    "stars",
+    "core",
+    "space"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/space-10.webp",
+   "thumb": "thumbs/space-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-11",
+   "title": "Rocket Launch",
+   "cat": "space",
+   "tags": [
+    "rocket",
+    "launch",
+    "dawn",
+    "clouds",
+    "space"
+   ],
+   "collections": [],
+   "img": "img/space-11.webp",
+   "thumb": "thumbs/space-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "space-12",
+   "title": "Black Hole Glow",
+   "cat": "space",
+   "tags": [
+    "black hole",
+    "accretion",
+    "glow",
+    "dark",
+    "space"
+   ],
+   "collections": [
+    "deepspace",
+    "amoled"
+   ],
+   "img": "img/space-12.webp",
+   "thumb": "thumbs/space-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/space-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/space-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-1",
+   "title": "Dew Tulips",
+   "cat": "flowers",
+   "tags": [
+    "flowers",
+    "tulips",
+    "dew",
+    "spring",
+    "macro"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/flowers-1.webp",
+   "thumb": "thumbs/flowers-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "flowers-2",
+   "title": "Cherry Blossom",
+   "cat": "flowers",
+   "tags": [
+    "flowers",
+    "blossom",
+    "sakura",
+    "spring",
+    "pink"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/flowers-2.webp",
+   "thumb": "thumbs/flowers-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "flowers-3",
+   "title": "Sunflower Sunset",
+   "cat": "flowers",
+   "tags": [
+    "flowers",
+    "sunflower",
+    "sunset",
+    "field",
+    "golden"
+   ],
+   "collections": [
+    "golden",
+    "inbloom"
+   ],
+   "img": "img/flowers-3.webp",
+   "thumb": "thumbs/flowers-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "flowers-4",
+   "title": "Midnight Roses",
+   "cat": "flowers",
+   "tags": [
+    "flowers",
+    "roses",
+    "dark",
+    "moody",
+    "red"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/flowers-4.webp",
+   "thumb": "thumbs/flowers-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "flowers-5",
+   "title": "Lavender Dusk",
+   "cat": "flowers",
+   "tags": [
+    "flowers",
+    "lavender",
+    "dusk",
+    "field",
+    "purple"
+   ],
+   "collections": [
+    "golden",
+    "inbloom"
+   ],
+   "img": "img/flowers-5.webp",
+   "thumb": "thumbs/flowers-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "flowers-6",
+   "title": "Peony Macro",
+   "cat": "flowers",
+   "tags": [
+    "peony",
+    "macro",
+    "pink",
+    "dew",
+    "petals",
+    "soft"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/flowers-6.webp",
+   "thumb": "thumbs/flowers-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-7",
+   "title": "Wildflower Meadow",
+   "cat": "flowers",
+   "tags": [
+    "wildflowers",
+    "meadow",
+    "alpine",
+    "morning",
+    "field",
+    "mountains"
+   ],
+   "collections": [],
+   "img": "img/flowers-7.webp",
+   "thumb": "thumbs/flowers-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-8",
+   "title": "Orchid in the Dark",
+   "cat": "flowers",
+   "tags": [
+    "orchid",
+    "white",
+    "dark",
+    "black",
+    "elegant",
+    "dramatic"
+   ],
+   "collections": [
+    "inbloom",
+    "amoled"
+   ],
+   "img": "img/flowers-8.webp",
+   "thumb": "thumbs/flowers-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-9",
+   "title": "Poppy Field",
+   "cat": "flowers",
+   "tags": [
+    "poppy",
+    "red",
+    "field",
+    "sunset",
+    "glow",
+    "vibrant"
+   ],
+   "collections": [
+    "inbloom",
+    "golden"
+   ],
+   "img": "img/flowers-9.webp",
+   "thumb": "thumbs/flowers-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-10",
+   "title": "Lotus Dawn",
+   "cat": "flowers",
+   "tags": [
+    "lotus",
+    "pond",
+    "dawn",
+    "calm",
+    "pink",
+    "misty"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/flowers-10.webp",
+   "thumb": "thumbs/flowers-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-11",
+   "title": "Dahlia Spiral",
+   "cat": "flowers",
+   "tags": [
+    "dahlia",
+    "orange",
+    "macro",
+    "spiral",
+    "petals",
+    "pattern"
+   ],
+   "collections": [],
+   "img": "img/flowers-11.webp",
+   "thumb": "thumbs/flowers-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "flowers-12",
+   "title": "Bluebell Woods",
+   "cat": "flowers",
+   "tags": [
+    "bluebell",
+    "forest",
+    "mist",
+    "morning",
+    "woods",
+    "woodland"
+   ],
+   "collections": [],
+   "img": "img/flowers-12.webp",
+   "thumb": "thumbs/flowers-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/flowers-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/flowers-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-1",
+   "title": "Skyline Reflections",
+   "cat": "city",
+   "tags": [
+    "city",
+    "skyline",
+    "night",
+    "reflections",
+    "urban"
+   ],
+   "collections": [],
+   "img": "img/city-1.webp",
+   "thumb": "thumbs/city-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-1.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "city-2",
+   "title": "Old Town Lanterns",
+   "cat": "city",
+   "tags": [
+    "city",
+    "old town",
+    "lanterns",
+    "evening",
+    "street"
+   ],
+   "collections": [],
+   "img": "img/city-2.webp",
+   "thumb": "thumbs/city-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-2.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "city-3",
+   "title": "Glass Towers",
+   "cat": "city",
+   "tags": [
+    "city",
+    "towers",
+    "glass",
+    "modern",
+    "urban"
+   ],
+   "collections": [],
+   "img": "img/city-3.webp",
+   "thumb": "thumbs/city-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-3.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "city-4",
+   "title": "Fog Bridge",
+   "cat": "city",
+   "tags": [
+    "city",
+    "bridge",
+    "fog",
+    "moody",
+    "water"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/city-4.webp",
+   "thumb": "thumbs/city-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-4.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "city-5",
+   "title": "Neon Alley",
+   "cat": "city",
+   "tags": [
+    "city",
+    "neon",
+    "alley",
+    "night",
+    "urban"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/city-5.webp",
+   "thumb": "thumbs/city-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-5.webp",
+   "added": 1,
+   "bundled": true
+  },
+  {
+   "id": "city-6",
+   "title": "Rainy Neon Street",
+   "cat": "city",
+   "tags": [
+    "rain",
+    "neon",
+    "night",
+    "street",
+    "reflections"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/city-6.webp",
+   "thumb": "thumbs/city-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-7",
+   "title": "Canal Dawn",
+   "cat": "city",
+   "tags": [
+    "canal",
+    "boats",
+    "dawn",
+    "golden",
+    "old town"
+   ],
+   "collections": [],
+   "img": "img/city-7.webp",
+   "thumb": "thumbs/city-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-8",
+   "title": "Towers in Fog",
+   "cat": "city",
+   "tags": [
+    "skyscrapers",
+    "fog",
+    "towers",
+    "morning",
+    "skyline"
+   ],
+   "collections": [],
+   "img": "img/city-8.webp",
+   "thumb": "thumbs/city-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-9",
+   "title": "Subway Motion",
+   "cat": "city",
+   "tags": [
+    "subway",
+    "motion",
+    "blur",
+    "train",
+    "station"
+   ],
+   "collections": [],
+   "img": "img/city-9.webp",
+   "thumb": "thumbs/city-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-10",
+   "title": "Rooftop Sunset",
+   "cat": "city",
+   "tags": [
+    "skyline",
+    "sunset",
+    "rooftop",
+    "golden",
+    "city"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/city-10.webp",
+   "thumb": "thumbs/city-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-11",
+   "title": "Castle Town",
+   "cat": "city",
+   "tags": [
+    "castle",
+    "old town",
+    "dusk",
+    "hill",
+    "europe"
+   ],
+   "collections": [],
+   "img": "img/city-11.webp",
+   "thumb": "thumbs/city-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "city-12",
+   "title": "Harbour Lights",
+   "cat": "city",
+   "tags": [
+    "harbour",
+    "boats",
+    "night",
+    "lights",
+    "reflections"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/city-12.webp",
+   "thumb": "thumbs/city-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/city-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/city-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-1",
+   "title": "Scarlet Macaw",
+   "cat": "animals",
+   "tags": [
+    "parrot",
+    "macaw",
+    "bird",
+    "rainforest",
+    "colourful"
+   ],
+   "collections": [],
+   "img": "img/animals-1.webp",
+   "thumb": "thumbs/animals-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-1.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-2",
+   "title": "Snow Leopard",
+   "cat": "animals",
+   "tags": [
+    "leopard",
+    "snow",
+    "wild cat",
+    "mountains"
+   ],
+   "collections": [],
+   "img": "img/animals-2.webp",
+   "thumb": "thumbs/animals-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-2.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-3",
+   "title": "Red Panda",
+   "cat": "animals",
+   "tags": [
+    "red panda",
+    "bamboo",
+    "cute",
+    "forest"
+   ],
+   "collections": [],
+   "img": "img/animals-3.webp",
+   "thumb": "thumbs/animals-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-3.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-4",
+   "title": "Arctic Fox",
+   "cat": "animals",
+   "tags": [
+    "fox",
+    "arctic",
+    "snow",
+    "white",
+    "aurora"
+   ],
+   "collections": [],
+   "img": "img/animals-4.webp",
+   "thumb": "thumbs/animals-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-4.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-5",
+   "title": "Sea Turtle Glide",
+   "cat": "animals",
+   "tags": [
+    "turtle",
+    "underwater",
+    "ocean",
+    "sunrays"
+   ],
+   "collections": [],
+   "img": "img/animals-5.webp",
+   "thumb": "thumbs/animals-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-5.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-6",
+   "title": "Owl at Dusk",
+   "cat": "animals",
+   "tags": [
+    "owl",
+    "bird",
+    "dusk",
+    "eyes",
+    "portrait"
+   ],
+   "collections": [],
+   "img": "img/animals-6.webp",
+   "thumb": "thumbs/animals-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-7",
+   "title": "Koi Dance",
+   "cat": "animals",
+   "tags": [
+    "koi",
+    "fish",
+    "pond",
+    "swirl",
+    "japanese"
+   ],
+   "collections": [],
+   "img": "img/animals-7.webp",
+   "thumb": "thumbs/animals-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-8",
+   "title": "Meadow Puppy",
+   "cat": "animals",
+   "tags": [
+    "puppy",
+    "dog",
+    "meadow",
+    "golden",
+    "cute"
+   ],
+   "collections": [],
+   "img": "img/animals-8.webp",
+   "thumb": "thumbs/animals-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-9",
+   "title": "Bengal Tiger",
+   "cat": "animals",
+   "tags": [
+    "tiger",
+    "jungle",
+    "wild",
+    "stripes"
+   ],
+   "collections": [],
+   "img": "img/animals-9.webp",
+   "thumb": "thumbs/animals-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-10",
+   "title": "Flamingo Lagoon",
+   "cat": "animals",
+   "tags": [
+    "flamingo",
+    "pink",
+    "lagoon",
+    "sunset",
+    "birds"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/animals-10.webp",
+   "thumb": "thumbs/animals-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-11",
+   "title": "Hummingbird",
+   "cat": "animals",
+   "tags": [
+    "hummingbird",
+    "bird",
+    "macro",
+    "flower",
+    "wings"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/animals-11.webp",
+   "thumb": "thumbs/animals-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "animals-12",
+   "title": "Polar Bear",
+   "cat": "animals",
+   "tags": [
+    "polar bear",
+    "arctic",
+    "ice",
+    "white"
+   ],
+   "collections": [],
+   "img": "img/animals-12.webp",
+   "thumb": "thumbs/animals-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/animals-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/animals-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-1",
+   "title": "Turquoise Shore",
+   "cat": "ocean",
+   "tags": [
+    "beach",
+    "aerial",
+    "turquoise",
+    "sand",
+    "shore"
+   ],
+   "collections": [],
+   "img": "img/ocean-1.webp",
+   "thumb": "thumbs/ocean-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-1.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-2",
+   "title": "Wave Barrel",
+   "cat": "ocean",
+   "tags": [
+    "wave",
+    "barrel",
+    "surf",
+    "curl",
+    "water"
+   ],
+   "collections": [],
+   "img": "img/ocean-2.webp",
+   "thumb": "thumbs/ocean-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-2.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-3",
+   "title": "Coral Garden",
+   "cat": "ocean",
+   "tags": [
+    "coral",
+    "reef",
+    "tropical",
+    "fish",
+    "underwater"
+   ],
+   "collections": [],
+   "img": "img/ocean-3.webp",
+   "thumb": "thumbs/ocean-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-3.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-4",
+   "title": "Storm Lighthouse",
+   "cat": "ocean",
+   "tags": [
+    "lighthouse",
+    "storm",
+    "waves",
+    "dusk",
+    "rocks"
+   ],
+   "collections": [],
+   "img": "img/ocean-4.webp",
+   "thumb": "thumbs/ocean-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-4.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-5",
+   "title": "Glowing Bay",
+   "cat": "ocean",
+   "tags": [
+    "bioluminescent",
+    "glow",
+    "night",
+    "beach",
+    "blue"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/ocean-5.webp",
+   "thumb": "thumbs/ocean-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-5.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-6",
+   "title": "Sunset Surf",
+   "cat": "ocean",
+   "tags": [
+    "surf",
+    "sunset",
+    "silhouette",
+    "wave",
+    "golden"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/ocean-6.webp",
+   "thumb": "thumbs/ocean-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-7",
+   "title": "Iceberg Calm",
+   "cat": "ocean",
+   "tags": [
+    "iceberg",
+    "arctic",
+    "calm",
+    "ice",
+    "blue"
+   ],
+   "collections": [],
+   "img": "img/ocean-7.webp",
+   "thumb": "thumbs/ocean-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-8",
+   "title": "Tide Pools",
+   "cat": "ocean",
+   "tags": [
+    "tide pools",
+    "rocks",
+    "sunset",
+    "reflections"
+   ],
+   "collections": [
+    "golden"
+   ],
+   "img": "img/ocean-8.webp",
+   "thumb": "thumbs/ocean-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-9",
+   "title": "Deep Blue Whale",
+   "cat": "ocean",
+   "tags": [
+    "whale",
+    "deep",
+    "blue",
+    "silhouette",
+    "underwater"
+   ],
+   "collections": [],
+   "img": "img/ocean-9.webp",
+   "thumb": "thumbs/ocean-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-10",
+   "title": "Palm Shadows",
+   "cat": "ocean",
+   "tags": [
+    "palm",
+    "shadows",
+    "aerial",
+    "sand",
+    "beach"
+   ],
+   "collections": [],
+   "img": "img/ocean-10.webp",
+   "thumb": "thumbs/ocean-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-11",
+   "title": "Cliff Coast",
+   "cat": "ocean",
+   "tags": [
+    "cliffs",
+    "coast",
+    "waves",
+    "dramatic",
+    "sea"
+   ],
+   "collections": [
+    "peaks"
+   ],
+   "img": "img/ocean-11.webp",
+   "thumb": "thumbs/ocean-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "ocean-12",
+   "title": "Moonlit Tide",
+   "cat": "ocean",
+   "tags": [
+    "moonlight",
+    "night",
+    "tide",
+    "calm",
+    "path"
+   ],
+   "collections": [],
+   "img": "img/ocean-12.webp",
+   "thumb": "thumbs/ocean-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/ocean-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/ocean-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-1",
+   "title": "Single Leaf",
+   "cat": "minimal",
+   "tags": [
+    "leaf",
+    "green",
+    "pastel",
+    "simple",
+    "calm"
+   ],
+   "collections": [],
+   "img": "img/minimal-1.webp",
+   "thumb": "thumbs/minimal-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-1.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-2",
+   "title": "Lone Tree",
+   "cat": "minimal",
+   "tags": [
+    "tree",
+    "fog",
+    "lone",
+    "calm",
+    "mist"
+   ],
+   "collections": [],
+   "img": "img/minimal-2.webp",
+   "thumb": "thumbs/minimal-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-2.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-3",
+   "title": "Paper Boat",
+   "cat": "minimal",
+   "tags": [
+    "paper boat",
+    "water",
+    "blue",
+    "tiny",
+    "calm"
+   ],
+   "collections": [],
+   "img": "img/minimal-3.webp",
+   "thumb": "thumbs/minimal-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-3.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-4",
+   "title": "Balloon Drift",
+   "cat": "minimal",
+   "tags": [
+    "balloon",
+    "sky",
+    "red",
+    "drift",
+    "airy"
+   ],
+   "collections": [],
+   "img": "img/minimal-4.webp",
+   "thumb": "thumbs/minimal-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-4.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-5",
+   "title": "Moon Phase",
+   "cat": "minimal",
+   "tags": [
+    "moon",
+    "navy",
+    "night",
+    "dark",
+    "glow"
+   ],
+   "collections": [
+    "amoled"
+   ],
+   "img": "img/minimal-5.webp",
+   "thumb": "thumbs/minimal-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-5.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-6",
+   "title": "Sand Line",
+   "cat": "minimal",
+   "tags": [
+    "sand",
+    "line",
+    "curve",
+    "desert",
+    "texture"
+   ],
+   "collections": [],
+   "img": "img/minimal-6.webp",
+   "thumb": "thumbs/minimal-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-7",
+   "title": "Window Cat",
+   "cat": "minimal",
+   "tags": [
+    "cat",
+    "silhouette",
+    "window",
+    "sunset",
+    "cosy"
+   ],
+   "collections": [],
+   "img": "img/minimal-7.webp",
+   "thumb": "thumbs/minimal-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-8",
+   "title": "Yellow Umbrella",
+   "cat": "minimal",
+   "tags": [
+    "umbrella",
+    "yellow",
+    "rain",
+    "grey",
+    "pop"
+   ],
+   "collections": [],
+   "img": "img/minimal-8.webp",
+   "thumb": "thumbs/minimal-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-9",
+   "title": "Mountain Line",
+   "cat": "minimal",
+   "tags": [
+    "mountains",
+    "gradient",
+    "dusk",
+    "layers",
+    "flat"
+   ],
+   "collections": [],
+   "img": "img/minimal-9.webp",
+   "thumb": "thumbs/minimal-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-10",
+   "title": "Feather Fall",
+   "cat": "minimal",
+   "tags": [
+    "feather",
+    "soft",
+    "falling",
+    "gentle",
+    "light"
+   ],
+   "collections": [],
+   "img": "img/minimal-10.webp",
+   "thumb": "thumbs/minimal-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-11",
+   "title": "Colour Door",
+   "cat": "minimal",
+   "tags": [
+    "door",
+    "coral",
+    "white",
+    "wall",
+    "shadow"
+   ],
+   "collections": [],
+   "img": "img/minimal-11.webp",
+   "thumb": "thumbs/minimal-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "minimal-12",
+   "title": "Zen Stones",
+   "cat": "minimal",
+   "tags": [
+    "zen",
+    "stones",
+    "balance",
+    "calm",
+    "water"
+   ],
+   "collections": [],
+   "img": "img/minimal-12.webp",
+   "thumb": "thumbs/minimal-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/minimal-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/minimal-12.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-1",
+   "title": "Sky Train",
+   "cat": "anime",
+   "tags": [
+    "train",
+    "sky",
+    "clouds",
+    "summer",
+    "scenic",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-1.webp",
+   "thumb": "thumbs/anime-1.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-1.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-1.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-2",
+   "title": "Rainy Umbrella",
+   "cat": "anime",
+   "tags": [
+    "rain",
+    "umbrella",
+    "neon",
+    "night",
+    "street",
+    "anime"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/anime-2.webp",
+   "thumb": "thumbs/anime-2.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-2.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-2.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-3",
+   "title": "Sakura Road",
+   "cat": "anime",
+   "tags": [
+    "sakura",
+    "blossom",
+    "street",
+    "spring",
+    "petals",
+    "anime"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/anime-3.webp",
+   "thumb": "thumbs/anime-3.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-3.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-3.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-4",
+   "title": "Rooftop Cat",
+   "cat": "anime",
+   "tags": [
+    "cat",
+    "rooftop",
+    "sunset",
+    "city",
+    "cosy",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-4.webp",
+   "thumb": "thumbs/anime-4.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-4.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-4.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-5",
+   "title": "Starry Camp",
+   "cat": "anime",
+   "tags": [
+    "camp",
+    "stars",
+    "milky way",
+    "night",
+    "tent",
+    "anime"
+   ],
+   "collections": [
+    "deepspace"
+   ],
+   "img": "img/anime-5.webp",
+   "thumb": "thumbs/anime-5.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-5.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-5.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-6",
+   "title": "Ocean Platform",
+   "cat": "anime",
+   "tags": [
+    "station",
+    "sea",
+    "platform",
+    "summer",
+    "scenic",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-6.webp",
+   "thumb": "thumbs/anime-6.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-6.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-6.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-7",
+   "title": "Floating Islands",
+   "cat": "anime",
+   "tags": [
+    "fantasy",
+    "islands",
+    "waterfalls",
+    "sky",
+    "clouds",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-7.webp",
+   "thumb": "thumbs/anime-7.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-7.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-7.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-8",
+   "title": "Autumn Shrine Path",
+   "cat": "anime",
+   "tags": [
+    "autumn",
+    "path",
+    "maple",
+    "shrine",
+    "red",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-8.webp",
+   "thumb": "thumbs/anime-8.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-8.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-8.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-9",
+   "title": "Cyber Alley",
+   "cat": "anime",
+   "tags": [
+    "cyberpunk",
+    "alley",
+    "neon",
+    "cat",
+    "night",
+    "anime"
+   ],
+   "collections": [
+    "nightdrive"
+   ],
+   "img": "img/anime-9.webp",
+   "thumb": "thumbs/anime-9.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-9.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-9.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-10",
+   "title": "Cloud Whale",
+   "cat": "anime",
+   "tags": [
+    "whale",
+    "clouds",
+    "sky",
+    "dream",
+    "pastel",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-10.webp",
+   "thumb": "thumbs/anime-10.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-10.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-10.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-11",
+   "title": "Sunflower Field",
+   "cat": "anime",
+   "tags": [
+    "sunflower",
+    "field",
+    "summer",
+    "sky",
+    "scenic",
+    "anime"
+   ],
+   "collections": [
+    "inbloom"
+   ],
+   "img": "img/anime-11.webp",
+   "thumb": "thumbs/anime-11.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-11.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-11.webp",
+   "added": 2,
+   "bundled": false
+  },
+  {
+   "id": "anime-12",
+   "title": "Winter Lanterns",
+   "cat": "anime",
+   "tags": [
+    "winter",
+    "snow",
+    "lanterns",
+    "village",
+    "night",
+    "anime"
+   ],
+   "collections": [],
+   "img": "img/anime-12.webp",
+   "thumb": "thumbs/anime-12.webp",
+   "imgUrl": "https://evermoredesire.github.io/woow-walls/img/anime-12.webp",
+   "thumbUrl": "https://evermoredesire.github.io/woow-walls/thumbs/anime-12.webp",
+   "added": 2,
+   "bundled": false
+  }
+ ]
+}
